@@ -71,7 +71,7 @@ const Home = () => {
         <div className="container mx-auto flex items-center justify-between">
           <div className="flex items-center">
             <img src="https://kick.com/favicon.ico" alt="Kick Logo" className="h-8 w-8 mr-2" />
-            <span className="text-xl font-bold">KickDash</span>
+            <span className="text-xl font-bold">KickDash by ABNS</span>
           </div>
           <form onSubmit={handleSearch} className="flex">
             <input
